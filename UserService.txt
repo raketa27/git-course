@@ -3,4 +3,4 @@ process the data
 
 create an avatar for user
 
-create a story feature
+create a status feature
